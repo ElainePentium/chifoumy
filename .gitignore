@@ -7,4 +7,6 @@ csv/
 *.csv
 **/__pycache__/
 .env
+.envrc
 .python-version
+test_pierre/data_images

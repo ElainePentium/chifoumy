@@ -6,12 +6,12 @@ import mediapipe as mp
 import pandas as pd
 from PIL import Image
 import numpy as np
-import random
-import os
-import cv2
+#import random
+#import os
+#import cv2
 from PIL import Image
-import include
-from include import create_key
+#import include
+#from include import create_key
 
 #===============================================================================
 
